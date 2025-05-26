@@ -1,0 +1,49 @@
+{
+    "theme": {
+        "core": {
+            "primary": "#303030",
+            "secondary": "#151515",
+            "border": "#202020",
+            "divider": "#252525",
+            "scrollbar": "#303030"
+        },
+        "text": {
+            "primary": "#FFFFFF",
+            "secondary": "#d9d9d9"
+        },
+        "button": {
+            "category": "#303030",
+            "action": "#303030"
+        },
+        "background": {
+            "main": "#050505",
+            "overlay": "rgba(10,10,10,0.5)",
+            "custom-image": "",
+            "logoImage": "",
+            "background-anim": "snow"
+        },
+        "border": {
+            "radius": {
+                "small": "5px",
+                "medium": "8px",
+                "large": "14px"
+            }
+        },
+        "effects": {
+            "shadow": {
+                "small": "0 2px 4px rgba(0, 0, 0, 0.2)",
+                "medium": "inset 0 2px 5px rgba(50, 50, 50, 0.6)",
+                "large": "0 20px 40px -15px rgba(0, 0, 0, 0.6), 0 0 25px rgba(0, 0, 0, 0.3), inset 0 2px 20px rgba(255, 255, 255, 0.07), inset 0 -15px 30px rgba(0, 0, 0, 0.25)"
+            },
+            "blur": {
+                "small": "4px",
+                "medium": "8px",
+                "large": "12px"
+            }
+        },
+        "settings": {
+            "defaultListView": false,
+            "defaultLanguage": "en"
+        }
+    }
+}
