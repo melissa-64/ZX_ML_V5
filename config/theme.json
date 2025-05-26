@@ -16,7 +16,7 @@
             "action": "#303030"
         },
         "background": {
-            "main": "#050505",
+            "main": "#343A40",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
             "logoImage": "",
@@ -44,6 +44,9 @@
         "settings": {
             "defaultListView": false,
             "defaultLanguage": "en"
+        },
+        "fixed": {
+            "titleBar": "#343A40"
         }
     }
 }
