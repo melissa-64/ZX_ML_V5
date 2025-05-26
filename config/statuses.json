@@ -1,0 +1,21 @@
+{
+    "statuses": [
+      {
+        "id": "online",
+        "label": "Online"
+      },
+      {
+        "id": "offline",
+        "label": "Offline"
+      },
+      {
+        "id": "updating",
+        "label": "Updating"
+      },
+      {
+        "id": "custom",
+        "label": "Use at Your Own Risk"
+      }
+  
+    ]
+  }
