@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "FLUBBA EXTERNAL + SPOOFER",
+            "name": "FLUBBA EXTERNAL + SPOOFER",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/921463808428478524_cloud/main/Flubba_external.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
+        }
+    ]
 }
