@@ -1,0 +1,56 @@
+{
+    "checks": [
+        {
+            "key": "VirtualizationEnabled",
+            "expectedValue": true,
+            "fixable": false,
+            "enabled": true,
+            "tutorialLink": ""
+        },
+        {
+            "key": "SecureBootDisabled",
+            "expectedValue": true,
+            "fixable": false,
+            "enabled": true,
+            "tutorialLink": ""
+        },
+        {
+            "key": "HyperVDisabled",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": true
+        },
+        {
+            "key": "MemoryIntegrityDisabled",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": false
+        },
+        {
+            "key": "DriverBlocklistDisabled",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": true
+        },
+        {
+            "key": "Windows11_24H2",
+            "expectedValue": true,
+            "fixable": false,
+            "enabled": true,
+            "tutorialLink": ""
+        },
+        {
+            "key": "WindowsDefenderDisabled",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": true
+        },
+        {
+            "key": "RiotVanguardInactive",
+            "expectedValue": true,
+            "fixable": true,
+            "enabled": true
+        }
+    ],
+    "enabled": true
+}
