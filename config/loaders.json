@@ -17,6 +17,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "MW3 BO6 TTXS-T3 EXTERNAL CHAIR",
+            "name": "MW3 BO6 TTXS-T3 EXTERNAL CHAIR",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/921463808428478524_cloud/main/t3.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
