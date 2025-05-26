@@ -16,7 +16,7 @@
             "action": "#9c04ff"
         },
         "background": {
-            "main": "#9c04ff",
+            "main": "#4f0480",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
             "logoImage": "https://media.discordapp.net/attachments/1372609358352875671/1376665559818834020/logo.png?ex=68362736&is=6834d5b6&hm=69b8d848f60a9a0d5d1bb14e5f588c351e39597396fd89fe5b399947c080088c&=&format=webp&quality=lossless&width=634&height=634",
@@ -46,7 +46,7 @@
             "defaultLanguage": "en"
         },
         "fixed": {
-            "titleBar": "#9c04ff"
+            "titleBar": "#4f0480"
         }
     }
 }
