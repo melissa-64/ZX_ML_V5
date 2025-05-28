@@ -26,6 +26,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "AFK BOT",
+            "name": "AFK BOT",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/921463808428478524_cloud/main/AFKBOT_UNBRANDED.rar",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
