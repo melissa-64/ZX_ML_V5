@@ -19,7 +19,7 @@
             "main": "#000000",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
-            "logoImage": "https://media.discordapp.net/attachments/1372609358352875671/1376665559818834020/logo.png?ex=6836cff6&is=68357e76&hm=44c5de6ee4503f40bbfe3e2e3b37400c979d6f0686228ae8d6a047f685a93b80&=&format=webp&quality=lossless&width=634&height=634",
+            "logoImage": "https://raw.githubusercontent.com/avod245/921463808428478524_cloud/main/logo.png",
             "background-anim": "stars"
         },
         "border": {
